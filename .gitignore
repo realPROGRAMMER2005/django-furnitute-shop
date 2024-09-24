@@ -1,0 +1,10 @@
+/app1/db.sqlite3
+.idea/
+media/
+venv/
+.vscode/
+__pycache__/
+templates-for-Django-4-course-Home-main/
+
+
+
