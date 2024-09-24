@@ -3,7 +3,6 @@
 media/
 venv/
 .vscode/
-__pycache__/
 templates-for-Django-4-course-Home-main/
 
 
